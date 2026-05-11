@@ -1,0 +1,5 @@
+Metric,Control Rank,Treatment Rank,p-value,p-value-full,sig
+Sharpe,1.0,2.0,0.0,9.134e-05,***
+Sortino,1.0,2.0,0.001,0.00070981,***
+MaxDD,1.5,1.5,0.933,0.9331496,
+% Positive Ret.,1.0,2.0,0.0,6.418e-05,***
